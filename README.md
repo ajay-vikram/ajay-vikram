@@ -12,8 +12,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-vikram&theme=react-dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-vikram&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
 </div>
 
 ---
