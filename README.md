@@ -18,10 +18,6 @@
 
 ---
 
-<div align="center">
-
----
-
 ## 🌐 Areas Where I Apply Machine Learning
 
 <div align="center">
@@ -46,8 +42,8 @@
     <td align="left" width="48%">
 
 ### ⚡ Neuromorphic Vision
-1. Real-time asynchronous event clustering and star tracking on resource-limited hardware.
-2. Human Activity and gesture recognition from event-based data.
+1. Real-time asynchronous event clustering and star tracking on resource-limited hardware.  
+2. Human activity and gesture recognition from event-based data.
 
 ### 🧩 Efficient Inference & Quantization
 1. Integer-only 8-bit (quantized) and 2-bit (ternarized) CNN/SSM pipelines for embedded and edge deployment.
