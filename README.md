@@ -2,44 +2,10 @@
 
 # 🚀 Machine Learning Researcher and Engineer
 
-</div>
+<h2 align="color:white">My GitHub Stats 📈</h2>
 
-<br/>
-
-<h2 align="center">My GitHub Stats 📈</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=ajay-vikram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" 
-        height="180" 
-        alt="GitHub Stats"
-      />
-    </td>
-
-    <td>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-vikram&theme=material-palenight&hide_border=false" 
-        height="180" 
-        alt="GitHub Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=ajay-vikram&theme=react-dark&hide_border=true" 
-    alt="Contribution Graph"
-  />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-vikram&theme=material-palenight" alt="ajay-vikram" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-vikram&theme=react-dark&hide_border=true" />
 
 <br/>
 
