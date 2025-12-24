@@ -5,7 +5,7 @@
 <h2 align="color:white">My GitHub Stats 📈</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-vikram&theme=material-palenight" alt="ajay-vikram" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-vikram&theme=react-dark&hide_border=true" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-vikram&theme=react-dark&hide_border=true" /> -->
 
 <br/>
 
