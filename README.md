@@ -25,6 +25,7 @@
 ### Large Language Models
 1. Hierarchical task decomposition, reward synthesis, and refinement for humanoid self-evolvement.  
 2. VLM reasoning using agentic tools, unified models, and latent-space representations.
+3. Fine tuning of LLMs and VLMs on task specific datasets.
 
 ### Robotics
 1. YOLOv7-tiny object detection pipelines in ROS2 for underwater autonomous systems.
